@@ -1,4 +1,4 @@
-# Sistem Ticketing Transport Bus
+# Sistem Ticketing Transportasi Bus
 
 ## Deskripsi
 Sistem Ticketing Transport Bus adalah  memungkinkan pengguna untuk memesan tiket bus secara online. Sistem ini dirancang untuk mempermudah pengelolaan pemesanan tiket, melihat jadwal keberangkatan, serta pembayaran tiket secara digital.
