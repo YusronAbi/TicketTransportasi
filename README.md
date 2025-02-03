@@ -42,20 +42,6 @@ Sistem Ticketing Transport Bus adalah  memungkinkan pengguna untuk memesan tiket
    npm start
    ```
 
-### Cara Menjalankan Frontend
-1. Masuk ke direktori frontend:
-   ```sh
-   cd frontend
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Jalankan aplikasi:
-   ```sh
-   npm start
-   ```
-
 ## API Endpoint
 | Method | Endpoint | Deskripsi |
 |--------|----------|------------|
